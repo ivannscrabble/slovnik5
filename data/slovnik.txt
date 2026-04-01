@@ -1,5 +1,3 @@
 auto
-strom
-dom
 pes
 mačka
